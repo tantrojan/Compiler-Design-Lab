@@ -1,0 +1,12 @@
+#include<stdio.h>
+
+int main()
+{
+	// This is a comment
+	int a=2;
+	/* This is a multi
+		line comment */
+	cout<<Printthisthing;
+	// Again a comment
+	return 0;
+}
